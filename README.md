@@ -1,6 +1,6 @@
 # RecyclerItemClickListener
 
-## Passo a passo
+## Passo a passo para criar um evento de clique do componente de listagem recyclerView
 
 - Criar a classe RecyclerItemClickListener no pacote principal do java 
 - Criar o método recyclerView.addOnItemTouchListener(); no MainActivity.java
