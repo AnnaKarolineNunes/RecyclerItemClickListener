@@ -2,7 +2,7 @@
 
 ## Passo a passo
 
-- Criar a classe RecyclerItemClickListener no pacote principsl do java 
+- Criar a classe RecyclerItemClickListener no pacote principal do java 
 - Criar o método recyclerView.addOnItemTouchListener(); no MainActivity.java
 
 ```bash
